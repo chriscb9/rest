@@ -12,3 +12,5 @@ if (console) {
 }
 
 module.exports = require('./browser');
+
+debugger;
